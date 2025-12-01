@@ -1,6 +1,6 @@
 #  Neovim Cheatsheet by sixbitdeep
 
-As I learn web development using Neovim as my IDE of choice, I’m documenting everything in a cheatsheet that I’m building manually in HTML, CSS, and JavaScript, and later in React as I progress through The Odin Project.
+As I learn web development using Neovim as my IDE of choice, I’m documenting everything in a cheatsheet that I’m building manually in HTML, CSS, and JavaScript, and later in React as I progress through [The Odin Project](https://theodinproject.com).
 
 I want to thank the entire open source community for sharing such incredible tools and knowledge. There’s nothing else like it. I’ve never seen anything comparable in the real world.
 
